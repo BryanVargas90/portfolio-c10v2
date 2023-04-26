@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Tribute",
+        "content": "Tribute to our fellow beloved",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+    {
+        "id": 2,
+        "name": "Scale",
+        "content": "Tribute to our fellow beloved",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+
+    {
+        "id": 3,
+        "name": "Timber Login",
+        "content": "Login Page",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+
+    {
+        "id": 4,
+        "name": "Counter React app",
+        "content": "Counter app made with react",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+
+    {
+        "id": 5,
+        "name": "Bluenight in Seoul",
+        "content": "Tribute to our fellow beloved",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+
+    {
+        "id": 6,
+        "name": "Quiz app",
+        "content": "Quiz app",
+        "website": "https://bocacode.com",
+        "cover": "https://picsum.photos/400/400"
+    },
+
+    
+        {
+            "id": 7,
+            "name": "Kardashev",
+            "content": "Tribute to our fellow beloved",
+            "website": "https://bocacode.com",
+            "cover": "https://picsum.photos/400/400"
+        }
+    ]
